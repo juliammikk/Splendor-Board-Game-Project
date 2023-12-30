@@ -17,7 +17,7 @@ Here is the board state at the beginning of their turn. They can now either sele
 ![336604552_896923794856338_7576145898370319909_n](https://github.com/juliammikk/Splendor-Board-Game-Project/assets/71704999/b37f8a41-1af7-4835-a984-c9aaf0afff22)
 
 ### Lobby
-After logging in, the player will enter the lobby where they can create a new game, join games created by other players, or join previously saved games.
+After logging in, the player will enter the lobby where they can create a new game, join games created by other players, or join previously saved games. Here players can also access the settings where players can change their username and password and add other players to the game's database.
 
 ![339546369_759325315584888_7875880342131210793_n](https://github.com/juliammikk/Splendor-Board-Game-Project/assets/71704999/223272a5-edfa-4ddb-b46b-cc9d1d121241)
 
