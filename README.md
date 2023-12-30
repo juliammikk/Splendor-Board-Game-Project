@@ -1,7 +1,7 @@
 # COMP 361 Project
 
 ## What is this project?
-As a group of 7 people, we developed an online version of _Splendor_, a famous broad game. The backend server was implemented using Spring Boot framework, 
+As a group of 7 people, we developed an online version of _Splendor_, a famous board game. The backend server was implemented using Spring Boot framework combined with REST protocol, 
 and we used JavaFX as our frontend framework. 
 The game is deployed on a [lobby service](https://github.com/m5c/LobbyService), developed by the course instructor: [Maximilian Schiedermeier](https://github.com/m5c).
 
